@@ -37,4 +37,4 @@ I made a 3D printed enclosure for this project, STL's and STEP's are avaiable fo
 # Final project
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TzrFJ_mD2jE/0.jpg)](https://www.youtube.com/watch?v=TzrFJ_mD2jE)
 
-https://www.youtube.com/watch?v=SRPcslP5UJQ&t=1s
+https://www.youtube.com/watch?v=TzrFJ_mD2jE
