@@ -31,8 +31,8 @@ This configuration gives a CAN speed = 500kbps, 2uS for each bit (most commom on
 
 # Enclosure
 I made a 3D printed enclosure for this project, STL's and STEP's are avaiable for download on this repository.
-<a href="https://imgur.com/a/TLYSOW9"><img src="https://imgur.com/a/TLYSOW9.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/a/dJas6N6"><img src="https://imgur.com/a/dJas6N6.png" title="source: imgur.com" /></a>
+![alt text for screen readers](/Images/foto1.jpg "Text to show on mouseover")
+![alt text for screen readers](/Images/foto2.jpg "Text to show on mouseover")
 
 # Final project
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TzrFJ_mD2jE/0.jpg)](https://www.youtube.com/watch?v=TzrFJ_mD2jE)
