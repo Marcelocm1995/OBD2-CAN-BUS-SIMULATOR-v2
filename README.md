@@ -19,7 +19,7 @@ This hardware uses a STM32F103C8T6 (bluepill board) with a CAN transceiver (MCP2
 MCP2551 is 5V logic, because of that we need to use PB9 and PB8 pins (this pins are 5V tolerant). Pins PA11 and PA12 aren't 5V tolerant.
 The display for GUI is a Nextion NX4024T032_11 connected on USART3 (PB10 and PB11).
 
-<a href="https://imgur.com/2QnrXvz"><img src="https://i.imgur.com/2QnrXvz.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/u9KBSBv"><img src="https://i.imgur.com/u9KBSBv.jpg" title="source: imgur.com" /></a>
 
 # CAN SPEED
 Clock was configured at 72MHz, with this clock we set: 
@@ -35,9 +35,6 @@ I made a 3D printed enclosure for this project, STL's and STEP's are avaiable fo
 <a href="https://imgur.com/a/dJas6N6"><img src="https://imgur.com/a/dJas6N6.png" title="source: imgur.com" /></a>
 
 # Final project
-It was not of the best quality, but it met perfectly.
-<a href="https://imgur.com/UenPx3U"><img src="https://i.imgur.com/UenPx3U.jpg" title="source: imgur.com" /></a>
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TzrFJ_mD2jE/0.jpg)](https://www.youtube.com/watch?v=TzrFJ_mD2jE)
 
 https://www.youtube.com/watch?v=SRPcslP5UJQ&t=1s
